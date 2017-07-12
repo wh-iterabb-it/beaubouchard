@@ -9,6 +9,9 @@ personal site
 ├── package.json
 ├── webpack.config.js
 └── src
+    ├── app-client.js
+    ├── routes.js
+    ├── server.js
     ├── static
     │   ├── index.html
     │   ├── assets
